@@ -7,12 +7,12 @@ using UnityEngine.UI;
 public class StartMenu : MonoBehaviour
 {
     public Button enterButton;
-    public bool isClicked;
+ 
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("nani");
-        isClicked = false;
+     
+ 
         Button btn = enterButton.GetComponent<Button>();
         btn.onClick.AddListener(StartGame);
     }
@@ -20,13 +20,15 @@ public class StartMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Return) || (Input.GetKeyDown(KeyCode.KeypadEnter)))
+        {
+            SceneManager.LoadScene("MainGame");
+        }
     }
 
     void StartGame()
     {
-        Debug.Log("You have clicked the button!");
-        isClicked = true;
+
         SceneManager.LoadScene("MainGame");
     }
 }

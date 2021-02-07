@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 5665047e025104446800565a34656eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6662226842568368605
+    second: girls sprays with mist_0
+  - first:
+      213: 8296404839433149889
+    second: girls sprays with mist_1
+  - first:
+      213: -3233538827437538685
+    second: girls sprays with mist_2
+  - first:
+      213: -2916077831235359591
+    second: girls sprays with mist_4
+  - first:
+      213: 5033234633573095150
+    second: girls sprays with mist_5
+  - first:
+      213: 1890401442089439311
+    second: girls sprays with mist_6
+  - first:
+      213: -5949897593054536920
+    second: girls sprays with mist_7
+  - first:
+      213: 8766839502488522477
+    second: girls sprays with mist_8
+  - first:
+      213: -5635703882513003152
+    second: girls sprays with mist_9
+  - first:
+      213: 4174015052900426955
+    second: girls sprays with mist_10
+  - first:
+      213: -2335262811994139128
+    second: girls sprays with mist_11
+  - first:
+      213: 5820951195993680891
+    second: girls sprays with mist_12
+  - first:
+      213: 8694713383981350019
+    second: girls sprays with mist_13
+  - first:
+      213: -830955578837038138
+    second: girls sprays with mist_14
+  - first:
+      213: 2326517977941398276
+    second: girls sprays with mist_15
+  - first:
+      213: 6985342060499446709
+    second: girls sprays with mist_16
+  - first:
+      213: 2029042983594102021
+    second: girls sprays with mist_17
+  - first:
+      213: 8081064686323410225
+    second: girls sprays with mist_18
+  - first:
+      213: -9044234548173008060
+    second: girls sprays with mist_19
+  - first:
+      213: -2264161996065001699
+    second: girls sprays with mist_20
+  - first:
+      213: 10995904160162696
+    second: girls sprays with mist_21
+  - first:
+      213: -9014997135187529043
+    second: girls sprays with mist_22
+  - first:
+      213: -497641096865713734
+    second: girls sprays with mist_23
+  - first:
+      213: -628550901064349275
+    second: girls sprays with mist_24
+  - first:
+      213: 5318730908040003192
+    second: girls sprays with mist_25
+  - first:
+      213: 1550033839889107128
+    second: girls sprays with mist_26
+  - first:
+      213: 7385368011891872827
+    second: girls sprays with mist_27
+  - first:
+      213: 3840509929425968478
+    second: girls sprays with mist_28
+  - first:
+      213: -1430114606134143541
+    second: girls sprays with mist_29
+  - first:
+      213: -8434917640674204910
+    second: girls sprays with mist_30
+  - first:
+      213: 6506018487661755229
+    second: girls sprays with mist_31
+  - first:
+      213: -4595457156735032982
+    second: girls sprays with mist_32
+  - first:
+      213: 8975961474254684641
+    second: girls sprays with mist_33
+  - first:
+      213: 5900081129546801001
+    second: girls sprays with mist_34
+  - first:
+      213: -1781888197601423425
+    second: girls sprays with mist_35
+  - first:
+      213: -7607130176114379496
+    second: girls sprays with mist_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girls sprays with mist_0
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 823
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12c5ce30cf47c50800000000000000
+      internalID: 6662226842568368605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_1
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 821
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9e37ce30c22370800000000000000
+      internalID: 8296404839433149889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_2
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 809
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382072781992023d0800000000000000
+      internalID: -3233538827437538685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_4
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 797
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c23db99a20887d0800000000000000
+      internalID: -2916077831235359591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_5
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 801
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee651556b34a9d540800000000000000
+      internalID: 5033234633573095150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 798
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4090a6881e0c3a10800000000000000
+      internalID: 1890401442089439311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_7
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 795
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b580cb9a7bd6da0800000000000000
+      internalID: -5949897593054536920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_8
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 797
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec0bc24121aa970800000000000000
+      internalID: 8766839502488522477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 657
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc5879d25f9c1b0800000000000000
+      internalID: -5635703882513003152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_10
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 657
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4634363941de930800000000000000
+      internalID: 4174015052900426955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 659
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806d8e168da779fd0800000000000000
+      internalID: -2335262811994139128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_12
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 654
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba614a54c28c050800000000000000
+      internalID: 5820951195993680891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 649
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cfa0491c3d9a870800000000000000
+      internalID: 8694713383981350019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 643
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0a4bbd4ad774f0800000000000000
+      internalID: -830955578837038138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_15
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 639
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d1c646c3794020800000000000000
+      internalID: 2326517977941398276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 42
+        width: 591
+        height: 636
+      alignment: 9
+      pivot: {x: 0.089807294, y: 0.39553133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2aa6189be0f060800000000000000
+      internalID: 6985342060499446709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 629
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d002fd7db982c10800000000000000
+      internalID: 2029042983594102021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 630
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135a2435485b52070800000000000000
+      internalID: 8081064686323410225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 630
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44315dac89c6c7280800000000000000
+      internalID: -9044234548173008060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 566
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2b9e19a41490e0800000000000000
+      internalID: -2264161996065001699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_21
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 590
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883637177b0172000800000000000000
+      internalID: 10995904160162696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 576
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2bbf97edb44e280800000000000000
+      internalID: -9014997135187529043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 403
+        height: 555
+      alignment: 9
+      pivot: {x: 0.13015887, y: 0.4547024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1feab1f060819f0800000000000000
+      internalID: -497641096865713734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 567
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cec22940f647f0800000000000000
+      internalID: -628550901064349275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_25
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 61
+        width: 711
+        height: 783
+      alignment: 9
+      pivot: {x: 0.078217715, y: 0.32570145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7d9db49defc940800000000000000
+      internalID: 5318730908040003192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 563
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8cc60a093d28510800000000000000
+      internalID: 1550033839889107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 525
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b341954d3191e7660800000000000000
+      internalID: 7385368011891872827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 436
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9bc3de6b3c4530800000000000000
+      internalID: 3840509929425968478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_29
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 425
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d641c756372ce0800000000000000
+      internalID: -1430114606134143541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 370
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21320fd881721fa80800000000000000
+      internalID: -8434917640674204910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_31
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 337
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf33b18550a4a50800000000000000
+      internalID: 6506018487661755229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_32
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 309
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6128405018a930c0800000000000000
+      internalID: -4595457156735032982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_33
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 165
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1ca867765019c70800000000000000
+      internalID: 8975961474254684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_34
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f5f90078c41e150800000000000000
+      internalID: 5900081129546801001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_35
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf818800267547e0800000000000000
+      internalID: -1781888197601423425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girls sprays with mist_36
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 133
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153c8cb86b0e6690800000000000000
+      internalID: -7607130176114379496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
